@@ -36,3 +36,7 @@ def hangman(word):
         print("あなたの負け!正解は {}.".format(word))
 
 hangman("cat")
+
+"""
+サンプルサンプル
+"""
